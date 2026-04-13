@@ -118,6 +118,10 @@ Proximity uses haversine distance with a 50-mile maximum radius and linear decay
 
 See [PROMPTS.md](./PROMPTS.md) for the complete set of prompts used to build this application with Kiro.
 
+## Author
+
+**Binxin Gao** (bgao666@umd.edu)
+
 ## License
 
 MIT

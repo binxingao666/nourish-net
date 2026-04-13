@@ -210,6 +210,7 @@ export default function App() {
         <p>{t.footer.dataNote}</p>
         <p style={{ fontStyle: 'italic', opacity: 0.7 }}>{t.footer.disclaimer}</p>
         <p style={{ marginTop: '0.5rem', opacity: 0.6 }}>{t.footer.built}</p>
+        <p style={{ marginTop: '0.3rem' }}>Contact us: <a href="mailto:bgao666@umd.edu">bgao666@umd.edu</a></p>
       </footer>
     </div>
   );
